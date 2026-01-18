@@ -23,7 +23,7 @@ Binlerce kelime, özenle hazırlanmış kartlarda sizi bekliyor. Her kartta şun
 
 ### 3️⃣ Özelleştirilmiş Çalışma Alanı: Favoriler
 Bir kelimeyi sürekli unutuyor musun? Ya da sana özel, zor gelen kelimelerden oluşan bir liste mi oluşturmak istiyorsun?
-**Tek Tıkla Favorilere Ekle:** Öğrenirken zorlandığın veya çok sevdiğin kelimeleri anında favori listene ekle.  
+* **Tek Tıkla Favorilere Ekle:** Öğrenirken zorlandığın veya çok sevdiğin kelimeleri anında favori listene ekle.  
 ---
 
 ## 🚀  Learn English ile Neler Kazanacaksın?
