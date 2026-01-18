@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 **Sıkıcı ders kitaplarını bir kenara atmanın vakti geldi!** 🚀  
-**Learn English**, kelime öğrenme sürecini interaktif, eğlenceli ve etkili hale getirmek için tasarlandı. İster sıfırdan başlıyor olun, ister kelime haznenizi geliştirmek isteyin; ihtiyacınız olan her şey bu uygulamada.
+**Learn English, kelime öğrenme sürecini interaktif, eğlenceli ve etkili hale getirmek için tasarlandı. İster sıfırdan başlıyor olun, ister kelime haznenizi geliştirmek isteyin; ihtiyacınız olan her şey burada.
 
 ---
 
@@ -12,31 +12,31 @@
 
 ### 1️⃣ Kelime Kartlarıyla Kalıcı Öğrenme
 Binlerce kelime, özenle hazırlanmış kartlarda sizi bekliyor. Her kartta şunları bulacaksınız:
-* **Türkçe ve İngilizce Tanımlar:** Anlamı anında kavrayın.
-* **Örnek Cümleler:** Kelimenin günlük hayattaki kullanımına hakim olun.
-* **🔊 Sesli Dinleme:** Doğru telaffuz ile dinleme becerinizi geliştirin.
+* **Türkçe ve İngilizce Tanımlar:** Kelimenin anlamını anında kavrayabileceksiniz.
+* **Örnek Cümleler:** Kelimenin günlük hayatta ve farklı bağlamlarda nasıl kullanıldığını öğrenin. Anlamını ezberlemek yerine, kullanımına hakim olun!
+* **🔊 Sesli Dinleme:** Seslendirilmiş kelimeler ve cümleler ile telaffuzunuzu mükemmelleştirin ve dinleme becerinizi geliştirin.
 
 ### 2️⃣ Bilgini Test Et, Gelişimini İzle
-Öğrenmenin en önemli adımı tekrar ve ölçmedir.
+Öğrenmenin en önemli adımı tekrar ve ölçmedir. Learn English, bilginizi pekiştirmeniz için size çeşitli test ve sınav modülleri sunar.
 * **Çeşitli Test Modları:** Kendinizi farklı tarzlarda deneyin.
 * **📊 Sonuç Analizi:** Hangi sorularda hata yaptın? Detaylı raporlar sayesinde zayıf noktalarını tespit et ve o kelimelere odaklan.
 
 ### 3️⃣ Özelleştirilmiş Çalışma Alanı: Favoriler
-Bir kelimeyi sürekli unutuyor musun? Onu hemen **Favorilere ekle** ve dilediğin zaman sadece zorlandığın kelimelere çalış.
-
+Bir kelimeyi sürekli unutuyor musun? Ya da sana özel, zor gelen kelimelerden oluşan bir liste mi oluşturmak istiyorsun?
+**Tek Tıkla Favorilere Ekle:** Öğrenirken zorlandığın veya çok sevdiğin kelimeleri anında favori listene ekle.  
 ---
 
-## 🚀 Neler Kazanacaksın?
+## 🚀  Learn English ile Neler Kazanacaksın?
 
-* ✅ **Hızlı ve Kalıcı Öğrenme:** Bağlam odaklı cümleler zihnine kazınır.
-* ✅ **Doğru Telaffuz:** Yabancı aksana ilk günden alışırsın.
-* ✅ **Özgüven:** Gelişimini somut raporlarla görerek motivasyonunu korursun.
+* ✅ **Hızlı ve Kalıcı Öğrenme:**  Etkileşimli kartlar ve bağlam odaklı cümleler sayesinde kelimeler zihnine kazınır.
+* ✅ **Doğru Telaffuz:**  Sesli dinleme özelliği ile yabancı aksana alışırsın.
+* ✅ **Özgüven:** Düzenli test çözerek ve sonuçlarını analiz ederek gelişimini somut olarak görürsün.
 
 ---
 
 ## 📥 Hemen İndir ve Başla!
 
-İngilizce öğrenme yolculuğuna bugün katılmak için aşağıdaki butona tıkla:
+Hemen Learn English'i indir, İngilizce öğrenme yolculuğuna bugün başla!
 
 [![Google Play'den İndir](https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=app.ahmetylmzzz.words)
 
