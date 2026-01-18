@@ -1,7 +1,6 @@
 # 📚 Learn English: İnteraktif Kelime Öğrenme Platformu
 
 [![Play Store](https://img.shields.io/badge/Google_Play-İndir-green?logo=googleplay&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/details?id=app.ahmetylmzzz.words)
-[![Platform](https://img.shields.io/badge/Platform-Android-brightgreen?logo=android&style=for-the-badge)](https://www.android.com)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 **Sıkıcı ders kitaplarını bir kenara atmanın vakti geldi!** 🚀  
