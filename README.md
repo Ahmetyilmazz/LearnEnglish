@@ -1,4 +1,4 @@
-# 📚 Learn English: İnteraktif Kelime Öğrenme Platformu
+# 📚 Learn English | OXFORD 4000+
 
 [![Play Store](https://img.shields.io/badge/Google_Play-İndir-green?logo=googleplay&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/details?id=app.ahmetylmzzz.words)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
