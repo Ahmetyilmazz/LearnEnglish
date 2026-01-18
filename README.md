@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 **Sıkıcı ders kitaplarını bir kenara atmanın vakti geldi!** 🚀  
-**Learn English, kelime öğrenme sürecini interaktif, eğlenceli ve etkili hale getirmek için tasarlandı. İster sıfırdan başlıyor olun, ister kelime haznenizi geliştirmek isteyin; ihtiyacınız olan her şey burada.
+**Learn English**, kelime öğrenme sürecini interaktif, eğlenceli ve etkili hale getirmek için tasarlandı. İster sıfırdan başlıyor olun, ister kelime haznenizi geliştirmek isteyin; ihtiyacınız olan her şey burada.
 
 ---
 
@@ -17,7 +17,7 @@ Binlerce kelime, özenle hazırlanmış kartlarda sizi bekliyor. Her kartta şun
 * **🔊 Sesli Dinleme:** Seslendirilmiş kelimeler ve cümleler ile telaffuzunuzu mükemmelleştirin ve dinleme becerinizi geliştirin.
 
 ### 2️⃣ Bilgini Test Et, Gelişimini İzle
-Öğrenmenin en önemli adımı tekrar ve ölçmedir. Learn English, bilginizi pekiştirmeniz için size çeşitli test ve sınav modülleri sunar.
+Öğrenmenin en önemli adımı tekrar ve ölçmedir. **Learn English**, bilginizi pekiştirmeniz için size çeşitli test ve sınav modülleri sunar.
 * **Çeşitli Test Modları:** Kendinizi farklı tarzlarda deneyin.
 * **📊 Sonuç Analizi:** Hangi sorularda hata yaptın? Detaylı raporlar sayesinde zayıf noktalarını tespit et ve o kelimelere odaklan.
 
@@ -35,7 +35,8 @@ Bir kelimeyi sürekli unutuyor musun? Ya da sana özel, zor gelen kelimelerden o
 ---
 
 ## 📥 Hemen İndir ve Başla!
-Hemen Learn English'i indir, İngilizce öğrenme yolculuğuna bugün başla!
+
+Hemen **Learn English**'i indir, İngilizce öğrenme yolculuğuna bugün başla!
 
 [![Google Play'den İndir](https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=app.ahmetylmzzz.words)
 
